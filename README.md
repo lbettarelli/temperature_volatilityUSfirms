@@ -1,7 +1,9 @@
 # temperature_volatilityUSfirms
 Replication code for “The economic costs of temperature volatility: Evidence from US firms”
+
 Luca Bettarelli, Davide Furceri, Michael Ganslmeier, Marc Tobias Schiffbauer.
-Submitted to Science
+
+Submitted to Science.
 June, 2023
 
 
