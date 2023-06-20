@@ -38,5 +38,5 @@ sdtemp_year: firm-level temperature volatility for firm i, at year t.
 meantemp_year: firm-level average temperature for firm i, at year t.
 shock_realized_vol: annual growth rates of firm realized volatility, estimated as the annualized 12-month standard deviation of daily CRSP returns (typically spanning 252 days of trading return data in a year, 200 minimum).
 sic_2_digit: year-by-year 2-digit Standard Industrial Classifications (SIC) code.
-![image](https://github.com/lbettarelli/temperature_volatilityUSfirms/assets/137168388/c104a464-c359-4ea4-b71f-c4775e880a76)
+
 
